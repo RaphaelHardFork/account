@@ -1,4 +1,15 @@
+# Deployed contract
+
+Account (`Cairo0`): [0x7ab766fc02b76bf1093fa22c012667e298740877754e03509a7de3d603cb32](https://testnet.starkscan.co/contract/0x007ab766fc02b76bf1093fa22c012667e298740877754e03509a7de3d603cb32)
+SimpleStorage (`Cairo1`): [0x0327dabf1bc77ef6424ddbfe0ee33ff3fcdb5ac43bf072df8bb2d50af20c38d8](https://testnet.starkscan.co/contract/0x0327dabf1bc77ef6424ddbfe0ee33ff3fcdb5ac43bf072df8bb2d50af20c38d8)
+
 # Activate the environment
+
+Requirements:
+- Rust
+- Cairo1 CLI
+- Python3.9
+- Cairo CLI
 
 ```bash
 python3.9 -m venv venv
